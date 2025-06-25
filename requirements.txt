@@ -1,2 +1,6 @@
 pytest
 pandas
+numpy 
+python-dateutil 
+pytz
+tzdata
